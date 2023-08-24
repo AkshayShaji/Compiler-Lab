@@ -1,2 +1,2 @@
 int a1=c1+b1;
-vid a1=10;
+void a1=10;
